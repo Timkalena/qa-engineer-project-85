@@ -96,7 +96,7 @@
   prerequisites: |
     Пользователь не авторизован 
   test-data: |
-    -
+    - нет
   steps:
     - Зайти на https://codebattle.hexlet.io
     - Кликнуть на [Try simple battle]
@@ -127,7 +127,7 @@
   prerequisites: |
     Пользователь не авторизован 
   test-data: |
-    -
+    - нет
   steps:
     - Зайти на https://codebattle.hexlet.io
     - Кликнуть на [Sign in]
@@ -160,7 +160,7 @@
   prerequisites: |
     Пользователь не авторизован и был зарегистрирован на сайте через Github
   test-data: |
-    -
+    - нет
   steps:
     - Зайти на https://codebattle.hexlet.io
     - Кликнуть на [Sign in]
@@ -178,7 +178,7 @@
   prerequisites: |
     Пользователь не авторизован и был зарегистрирован на сайте через Discord
   test-data: |
-    -
+    - нет
   steps:
     - Зайти на https://codebattle.hexlet.io
     - Кликнуть на [Sign in]
@@ -197,7 +197,7 @@
   prerequisites: |
     Пользователь не авторизован 
   test-data: |
-    -
+    - нет
   steps:
     - Зайти на https://codebattle.hexlet.io
     - Кликнуть на [Sign in]
@@ -218,7 +218,7 @@
   prerequisites: |
     Пользователь не авторизован 
   test-data: |
-    -
+    - нет
   steps:
     - Зайти на https://codebattle.hexlet.io
     - Кликнуть на [Sign in]
@@ -235,7 +235,7 @@
   prerequisites: |
     Пользователь не авторизован 
   test-data: |
-    -
+    - нет
   steps:
     - Зайти на https://codebattle.hexlet.io
     - Кликнуть на [Sign in]
@@ -256,7 +256,7 @@
   prerequisites: |
     Пользователь не авторизован и имеет аккаунт на Github
   test-data: |
-    -
+    - нет
   steps:
     - Зайти на https://codebattle.hexlet.io
     - Кликнуть на [Sign up]
@@ -274,7 +274,7 @@
   prerequisites: |
     Пользователь не авторизован и имеет аккаунт в Discord
   test-data: |
-    -
+    - нет
   steps:
     - Зайти на https://codebattle.hexlet.io
     - Кликнуть на [Sign up]
@@ -292,7 +292,7 @@
   prerequisites: |
     Пользователь не авторизован 
   test-data: |
-    -
+    - нет
   steps:
     - Зайти на https://codebattle.hexlet.io
     - Кликнуть на [Sign in]
@@ -307,7 +307,7 @@
   prerequisites: |
     Пользователь не авторизован 
   test-data: |
-    -
+    - нет
   steps:
     - Зайти на https://codebattle.hexlet.io
     - Кликнуть на [Sign up]
@@ -322,7 +322,7 @@
   prerequisites: |
     Пользователь не авторизован 
   test-data: |
-    -
+    - нет
   steps:
     - Зайти на https://codebattle.hexlet.io
     - Кликнуть на Try simple battle
@@ -429,7 +429,7 @@
     - Пользователь авторизован
     - Открыта страница с игрой, например, https://codebattle.hexlet.io/games/136234
   test-data: |
-    - 
+    - нет
   steps:
     - Кликнуть на EN и выбрать RU
     - Кликнуть на RU и выбрать EN
@@ -444,7 +444,7 @@
     - Пользователь авторизован
     - Открыта страница с игрой, например, https://codebattle.hexlet.io/games/136234
   test-data: |
-    - 
+    - нет
   steps:
     - Напечатать что-то в редакторе
     - Кликнуть на reset editor
@@ -459,7 +459,7 @@
     - Пользователь авторизован
     - Открыта страница с игрой, например, https://codebattle.hexlet.io/games/136234
   test-data: |
-    - 
+    - нет
   steps:
     - Нажать на Show guide
   expected-result: |
@@ -473,7 +473,7 @@
     - Пользователь авторизован
     - Открыта страница с игрой, например, https://codebattle.hexlet.io/games/136234
   test-data: |
-    - 
+    - нет
   steps:
     - Начать вводить текст в редакторе кода
   expected-result: |
@@ -501,7 +501,7 @@
     - Пользователь авторизован
     - Открыта страница с игрой, например, https://codebattle.hexlet.io/games/136234
   test-data: |
-    - 
+    - нет
   steps:
     - Нажать на Light
     - Нажать на Dark
@@ -516,7 +516,7 @@
     - Пользователь авторизован
     - Открыта страница с игрой, например, https://codebattle.hexlet.io/games/136234
   test-data: |
-    - 
+    - нет
   steps:
     - Нажать на vim
   expected-result: |
@@ -530,7 +530,7 @@
     - Пользователь авторизован
     - Открыта страница с игрой, например, https://codebattle.hexlet.io/games/136234
   test-data: |
-    - 
+    - нет
   steps:
     - Решить поставленную задачу
   expected-result: |
@@ -544,7 +544,7 @@
      - Пользователь авторизован
      - Открыта страница с игрой, например, https://codebattle.hexlet.io/games/136234
   test-data: |
-    - 
+    - нет
   steps:
     - Решить поставленную задачу и нажать Check solution
   expected-result: |
@@ -558,7 +558,7 @@
     - Пользователь авторизован
     - Открыта страница с игрой, например, https://codebattle.hexlet.io/games/136234
   test-data: |
-    - 
+    - нет
   steps:
     - Нажать на флажок Give up
     - В появившемся окне вновь выбрать Give up 
@@ -573,7 +573,7 @@
     - Пользователь авторизован
     - Открыта страница с игрой, например, https://codebattle.hexlet.io/games/136234
   test-data: |
-    - 
+    - нет
   steps:
     - Нажать на флажок Give up 
     - В появившемся окне нажать на Cancel
@@ -588,7 +588,7 @@
     - Пользователь авторизован
     - Открыта страница с игрой, например, https://codebattle.hexlet.io/games/136234
   test-data: |
-    - 
+    - нет
   steps:
     - Нажать на Open History 
     - Нажать на символ треугольника внизудля запуска истории
@@ -603,7 +603,7 @@
     - Пользователь авторизован
     - Открыта страница с игрой, например, https://codebattle.hexlet.io/games/136234
   test-data: |
-    - 
+    - нет
   steps:
     - Нажать на Open History 
     - Перенести точку ползунка на нужную минуту
@@ -619,9 +619,9 @@
     - Пользователь авторизован
     - Открыта страница с игрой, например, https://codebattle.hexlet.io/games/136234
   test-data: |
-    - 
+    - нет
   steps:
-    - 
+    - нет
   expected-result: |
     Справа отображается чат с историей сообщений, временем отправки и автором каждого
     
@@ -633,7 +633,7 @@
     - Пользователь авторизован
     - Открыта страница с игрой, например, https://codebattle.hexlet.io/games/136234
   test-data: |
-    - 
+    - нет
   steps:
     - Ввести текст в поле для сообщения
     - Нажать на смайл и выбрать нужный, кликнуть на него
@@ -649,7 +649,7 @@
     - Пользователь авторизован
     - Открыта страница с игрой, например, https://codebattle.hexlet.io/games/136234
   test-data: |
-    - 
+    - нет
   steps:
     - Нажать на символ со скрещенными мечами, когда он горит черным
     - Нажать на зеленую кнопку с галочкой в появившемся окне 
@@ -663,7 +663,7 @@
   prerequisites: |
     Открыта страница https://codebattle.hexlet.io/#lobby
   test-data: |
-    - 
+    - нет
   steps:
     - Кликнуть на Create a game
     - Кликнуть на крестик правом верхнем углу окна
@@ -678,7 +678,7 @@
     - Пользователь авторизован 
     - Открыта страница https://codebattle.hexlet.io/#lobby
   test-data: |
-    - 
+    - нет
   steps:
     - Кликнуть на Create a game
     - Установить время баттла в 3 минуты
@@ -695,7 +695,7 @@
     - Пользователь авторизован
     - Открыта страница с игрой, например, https://codebattle.hexlet.io/games/136234
   test-data: |
-    - 
+    - нет
   steps:
     - Ввести любой текст в код, например "ывапроть"
     - Кликнуть Check solution или Ctrl + e
@@ -714,9 +714,9 @@
     - Пользователь авторизован
     - Открыта страница с игрой, например, https://codebattle.hexlet.io/games/136234
   test-data: |
-    - 
+    - нет
   steps:
-    -
+    - нет
   expected-result: |
     - Вкладка TASK открыта по умолчанию
     - Отображается сложность задания, его название и текст
@@ -732,7 +732,7 @@
     - Пользователь авторизован
     - Открыта страница с игрой, например, https://codebattle.hexlet.io/games/136234
   test-data: |
-    - 
+    - нет
   steps:
     - Кликнуть [Back to Home]
   expected-result: |
@@ -746,7 +746,7 @@
     - Пользователь авторизован
     - Открыта страница с игрой, например, https://codebattle.hexlet.io/games/136234  
   test-data: |
-    - 
+    - нет
   steps:
     - Навести курсор мыши на свой или чужой никнейм
   expected-result: |
@@ -760,7 +760,7 @@
     - Пользователь авторизован
     - Открыта страница с игрой, например, https://codebattle.hexlet.io/games/136234
   test-data: |
-    - 
+    - нет
   steps:
     - Кликнуть на аватар пользователя на вкладке TASK под 'This users have contributed to this task:'
   expected-result: |
@@ -773,7 +773,7 @@
   prerequisites: |
     - Пользователь авторизован, игра окончена  
   test-data: |
-    - 
+    - нет
   steps:
     - Нажать Rematch, если соперник не вышел из игры 
   expected-result: |
