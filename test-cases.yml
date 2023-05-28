@@ -9,7 +9,7 @@
     - email "example@mail.ru"
     - password "Netrivparol123"
   steps:
-    - Зайти на https://codebattle.hexlet.io/
+    - Зайти на https://codebattle.hexlet.io
     - Кликнуть на [Sign up]
     - Ввести Nickname, email, password из test-data и подтвердить повторным вводом password
     - Нажать Submit 
@@ -27,7 +27,7 @@
     - email "example@mail.ru"
     - password "Netrivparol123777"
   steps:
-    - Зайти на https://codebattle.hexlet.io/
+    - Зайти на https://codebattle.hexlet.io
     - Кликнуть на [Sign up]
     - Ввести Nickname, email, password из test-data и подтвердить повторным вводом password
     - Нажать Submit 
@@ -45,7 +45,7 @@
     - email "example777@mail.ru"
     - password "Netrivparol123777"
   steps:
-    - Зайти на https://codebattle.hexlet.io/
+    - Зайти на https://codebattle.hexlet.io
     - Кликнуть на [Sign up]
     - Ввести Nickname, email, password из test-data и подтвердить повторным вводом password
     - Нажать Submit 
@@ -63,7 +63,7 @@
     - email "example777@mail.ru"
     - password "Net"
   steps:
-    - Зайти на https://codebattle.hexlet.io/
+    - Зайти на https://codebattle.hexlet.io
     - Кликнуть на [Sign up]
     - Ввести Nickname, email, password из test-data и подтвердить повторным вводом password
     - Нажать Submit 
@@ -82,7 +82,7 @@
     - password "Netrivparol123777"
     - password "Netrivparol123776"
   steps:
-    - Зайти на https://codebattle.hexlet.io/
+    - Зайти на https://codebattle.hexlet.io
     - Кликнуть на [Sign up]
     - Ввести Nickname, email, password и password из test-data 
     - Нажать Submit 
@@ -98,7 +98,7 @@
   test-data: |
     -
   steps:
-    - Зайти на https://codebattle.hexlet.io/
+    - Зайти на https://codebattle.hexlet.io
     - Кликнуть на [Try simple battle]
   expected-result: |
     Открылась страница с игрой с ботом
@@ -113,7 +113,7 @@
     - email "example@mail.ru"
     - password "Netrivparol123"
   steps:
-    - Зайти на https://codebattle.hexlet.io/
+    - Зайти на https://codebattle.hexlet.io
     - Кликнуть на [Sign in]
     - Ввести email/пароль из test-data 
     - Кликнуть Submit
@@ -129,7 +129,7 @@
   test-data: |
     -
   steps:
-    - Зайти на https://codebattle.hexlet.io/
+    - Зайти на https://codebattle.hexlet.io
     - Кликнуть на [Sign in]
     - Ввести незарегистрированные email/пароль
     - Кликнуть Submit
@@ -145,7 +145,7 @@
   test-data: |
     - email "ывапролб 2345е6нготим"
   steps:
-    - Зайти на https://codebattle.hexlet.io/
+    - Зайти на https://codebattle.hexlet.io
     - Кликнуть на [Sign in]
     - Ввести email из test-data
     - Не вводить пароль
@@ -162,7 +162,7 @@
   test-data: |
     -
   steps:
-    - Зайти на https://codebattle.hexlet.io/
+    - Зайти на https://codebattle.hexlet.io
     - Кликнуть на [Sign in]
     - Кликнуть на [Sign in with Github]
     - Ввести логин/пароль от GitHub в окне авторизации
@@ -180,7 +180,7 @@
   test-data: |
     -
   steps:
-    - Зайти на https://codebattle.hexlet.io/
+    - Зайти на https://codebattle.hexlet.io
     - Кликнуть на [Sign in]
     - Кликнуть на [Sign in with Discord]
     - Ввести логин/пароль от Discord в окне авторизации
@@ -199,7 +199,7 @@
   test-data: |
     -
   steps:
-    - Зайти на https://codebattle.hexlet.io/
+    - Зайти на https://codebattle.hexlet.io
     - Кликнуть на [Sign in]
     - Кликнуть на Forgot your password? 
     - Ввести свой email
@@ -220,7 +220,7 @@
   test-data: |
     -
   steps:
-    - Зайти на https://codebattle.hexlet.io/
+    - Зайти на https://codebattle.hexlet.io
     - Кликнуть на [Sign in]
     - Кликнуть на Forgot your password? 
     - Ввести несуществующий email
@@ -237,7 +237,7 @@
   test-data: |
     -
   steps:
-    - Зайти на https://codebattle.hexlet.io/
+    - Зайти на https://codebattle.hexlet.io
     - Кликнуть на [Sign in]
     - Кликнуть на Forgot your password? 
     - Ввести свой email
@@ -258,7 +258,7 @@
   test-data: |
     -
   steps:
-    - Зайти на https://codebattle.hexlet.io/
+    - Зайти на https://codebattle.hexlet.io
     - Кликнуть на [Sign up]
     - Кликнуть на [Sign in with Github]
     - Ввести логин/пароль от GitHub в окне авторизации
@@ -276,7 +276,7 @@
   test-data: |
     -
   steps:
-    - Зайти на https://codebattle.hexlet.io/
+    - Зайти на https://codebattle.hexlet.io
     - Кликнуть на [Sign up]
     - Кликнуть на [Sign in with Discord]
     - Ввести логин/пароль от Discord в окне авторизации
@@ -294,7 +294,7 @@
   test-data: |
     -
   steps:
-    - Зайти на https://codebattle.hexlet.io/
+    - Зайти на https://codebattle.hexlet.io
     - Кликнуть на [Sign in]
     - Кликнуть на [Have not an account? Sign Up]
   expected-result: |
@@ -309,7 +309,7 @@
   test-data: |
     -
   steps:
-    - Зайти на https://codebattle.hexlet.io/
+    - Зайти на https://codebattle.hexlet.io
     - Кликнуть на [Sign up]
     - Кликнуть на [Have not an account? Sign in]
   expected-result: |
@@ -324,7 +324,7 @@
   test-data: |
     -
   steps:
-    - Зайти на https://codebattle.hexlet.io/
+    - Зайти на https://codebattle.hexlet.io
     - Кликнуть на Try simple battle
     - Провести состязание
   expected-result: |
