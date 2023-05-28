@@ -32,7 +32,7 @@
     - Ввести Nickname, email, password из test-data и подтвердить повторным вводом password
     - Нажать Submit 
   expected-result: |
-    Email is already taken
+    Появится сообщение "Email is already taken"
 
 - summary: |
     Проверка неуспешной регистрации пользователя 
