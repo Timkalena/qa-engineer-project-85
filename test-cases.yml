@@ -675,11 +675,11 @@
   requirement: |
     При окончании таймера игра должна закончиться 
   prerequisites: |
-    - Пользователь авторизован  
+    - Пользователь авторизован 
+    - Открыта страница https://codebattle.hexlet.io/#lobby
   test-data: |
     - 
   steps:
-    Открыта страница https://codebattle.hexlet.io/#lobby
     - Кликнуть на Create a game
     - Установить время баттла в 3 минуты
     - Нажать Create Battle
